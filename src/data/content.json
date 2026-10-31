@@ -1,51 +1,104 @@
 {
-  "industry": "mühendislik",
-  "automotive": true,
-  "heroEyebrow": "TSE 360 & TÜVTÜRK YETKİLİ ARAÇ PROJE OFİSİ",
-  "heroTitle": "Araç proje hizmetleri ve motosiklet çanta ruhsata işletme",
-  "heroDescription": "Yetkili makine mühendisliği kadromuzla araç projelerinizi ve motosiklet çanta tescillerinizi hızlı, eksiksiz ve mevzuata tam uyumlu biçimde yönetiyoruz.",
+  "industry": "diyetisyen",
+  "automotive": false,
+  "heroEyebrow": "ANKARA BESLENME VE DİYET DANIŞMANLIĞI",
+  "heroTitle": "Yasaksız, Sürdürülebilir ve Size Özel Beslenme Yolculuğu",
+  "heroDescription": "Aç kalmadan, hayat ritminize uyum sağlayan sürdürülebilir beslenme alışkanlıkları kazanın. Klinik veya online danışmanlıkla hedeflerinize güvenle ulaşın.",
   "highlights": [
-    "Araç Proje | TSE Onaylı",
-    "Motosiklet Çanta Ruhsata İşletme",
-    "TÜVTÜRK & Noter Tescil Desteği"
+    "Klinik ve Online Hibrit",
+    "Kişiye Özel Beslenme",
+    "Düzenli WhatsApp Takibi",
+    "Sürdürülebilir Alışkanlıklar"
   ],
   "metrics": [
     {
-      "value": "12+ Yıl",
-      "label": "Mühendislik Deneyimi"
-    },
-    {
-      "value": "1.000+",
-      "label": "Tescilli Proje"
-    },
-    {
       "value": "%100",
-      "label": "Mevzuat Uyumu"
+      "label": "Kişiye Özel Planlama"
+    },
+    {
+      "value": "Birebir",
+      "label": "Düzenli Takip ve Destek"
+    },
+    {
+      "value": "Hibrit",
+      "label": "Klinik ve Online Seçenek"
     }
   ],
-  "aboutTitle": "Araç projesi ve motosiklet çanta tescilinde iki ana uzmanlık",
-  "aboutText": "İhtiyacınız olan hizmet alanını seçin; mevzuata tam uygun teknik hesaplama, TSE 360 dijital dosya onayı ve noter tescil adımlarını sıfır hata güvencesiyle tamamlayalım.",
+  "aboutTitle": "Sürdürülebilir Sağlık ve İyi Yaşam İçin Yanınızdayız",
+  "aboutText": "diyeta olarak, katı listeler ve geçici çözümler yerine yaşam tarzınıza uyarlanan bilimsel beslenme programları geliştiriyoruz. Ankara'daki kliniğimizde veya online seanslarımızla, hedeflerinize ulaşmanız için her adımda yol arkadaşınız oluyoruz. Kendinizle barışık, sağlıklı ve dengeli bir bedene kavuşmanız için buradayız.",
   "categories": [
-    "Araç Projeleri",
-    "Dönüşüm",
-    "Söküm",
-    "Motosiklet",
-    "Belgelendirme"
+    "Bireysel Beslenme",
+    "Klinik Beslenme",
+    "Performans ve Yaşam"
   ],
-  "services": [],
+  "services": [
+    {
+      "title": "Kilo Verme Programı",
+      "shortTitle": "Kilo Verme Programı",
+      "slug": "kilo-verme-programi",
+      "summary": "Metabolizma hızınıza ve günlük rutininize uyumlu, aç kalmadan kalıcı kilo vermenizi sağlayan özel beslenme planı.",
+      "category": "Bireysel Beslenme"
+    },
+    {
+      "title": "Sağlıklı Kilo Alma",
+      "shortTitle": "Sağlıklı Kilo Alma",
+      "slug": "kilo-alma-programi",
+      "summary": "Kas kütlesini artırmayı hedefleyen, dengeli ve hacim kazandıran sağlıklı kilo alma danışmanlığı.",
+      "category": "Bireysel Beslenme"
+    },
+    {
+      "title": "Tıbbi Beslenme Tedavisi",
+      "shortTitle": "Tıbbi Beslenme Tedavisi",
+      "slug": "tibbi-beslenme-tedavisi",
+      "summary": "Diyabet, kolesterol, tiroid ve tansiyon gibi kronik rahatsızlıklarda sağlığı destekleyen klinik beslenme yönetimi.",
+      "category": "Klinik Beslenme"
+    },
+    {
+      "title": "İnsülin Direnci Beslenmesi",
+      "shortTitle": "İnsülin Direnci Beslenmesi",
+      "slug": "insulin-direnci-beslenmesi",
+      "summary": "Kan şekeri dalgalanmalarını ve tatlı krizlerini önleyen, insülin duyarlılığını artıran özel beslenme yaklaşımı.",
+      "category": "Klinik Beslenme"
+    },
+    {
+      "title": "Sporcu Beslenmesi",
+      "shortTitle": "Sporcu Beslenmesi",
+      "slug": "sporcu-beslenmesi",
+      "summary": "Antrenman performansını, dayanıklılığı ve toparlanma sürecini maksimize eden hedefe yönelik makro planlaması.",
+      "category": "Performans ve Yaşam"
+    },
+    {
+      "title": "Online Diyet Danışmanlığı",
+      "shortTitle": "Online Diyet Danışmanlığı",
+      "slug": "online-diyet-danismanligi",
+      "summary": "Mesafe fark etmeksizin haftalık görüşmeler ve düzenli WhatsApp takibiyle yürütülen esnek beslenme rehberliği.",
+      "category": "Performans ve Yaşam"
+    },
+    {
+      "title": "Gebelik ve Emzirme Beslenmesi",
+      "shortTitle": "Gebelik ve Emzirme Beslenmesi",
+      "slug": "gebelik-ve-emzirme-beslenmesi",
+      "summary": "Anne ve bebeğin tüm besin gereksinimlerini eksiksiz karşılayan, güvenli ve dengeli beslenme takibi.",
+      "category": "Klinik Beslenme"
+    }
+  ],
   "faq": [
     {
-      "question": "Motosiklet çanta ruhsata nasıl işletilir?",
-      "answer": "Motosiklete monte edilen arka çanta veya taşıma kutusu için yetkili makine mühendisimiz tarafından TSE onaylı tadilat projesi çizilir. Ardından TSE Araç Kontrol Merkezi incelemesi ve TÜVTÜRK tespit muayenesi yapılarak noterden yeni ruhsat teslim alınır."
+      "question": "Görüşmeler online mı yoksa klinikte yüz yüze mi yapılıyor?",
+      "answer": "İhtiyacınıza göre hem Ankara kliniğimizde yüz yüze hem de online olarak hibrit görüşmeler gerçekleştiriyoruz. Şehir dışından ya da yoğun tempolu danışanlarımız online takiple aynı verimli sonuca ulaşabilir."
     },
     {
-      "question": "Araç projesi hangi durumlarda zorunludur?",
-      "answer": "Karavan dönüşümü, motor değişimi, çeki demiri montajı, koltuk sökümü veya ilavesi, LPG sökümü ve engelli aparatı gibi aracın fabrika çıkış özelliklerini değiştiren tüm işlemlerde yasal olarak araç projesi zorunludur."
+      "question": "Diyet listeleri katı ve yasaklarla dolu mu?",
+      "answer": "Kesinlikle hayır; aç kalmadan, sevdiğiniz besinleri dengeli şekilde hayatınıza dahil eden sürdürülebilir listeler hazırlıyoruz. Amacımız kısa süreli katı yasaklar değil, ömür boyu kalıcı sağlıklı alışkanlıklar kazandırmaktır."
     },
     {
-      "question": "TSE onay ve ruhsat süreci ne kadar sürer?",
-      "answer": "Teknik evraklarınız ve montaj faturanız hazır olduğunda proje çizimi ve TSE 360 sistemine dosya yükleme işlemi aynı gün içinde tamamlanır. Randevu sonrasında muayene ve noter tesciliyle süreç hızla sonuçlandırılır."
+      "question": "Seanslar ve takip süreci ne sıklıkla gerçekleşiyor?",
+      "answer": "Genellikle haftalık kontrollerle ilerliyor, vücut analizi ve motivasyon durumunuza göre listelerinizi düzenli güncelliyoruz. Seans aralarında da WhatsApp üzerinden sürekli iletişimde kalarak aklınıza takılan her soruda destek veriyoruz."
+    },
+    {
+      "question": "Görüşme öncesinde kan tahlili yaptırmam gerekiyor mu?",
+      "answer": "Evet, metabolik durumunuzu, vitamin-mineral seviyelerinizi ve genel sağlığınızı görmeden kişiselleştirilmiş bir plan oluşturulamaz. İlk görüşmemiz öncesinde güncel tahlillerinizi değerlendirip süreci tamamen biyolojinize uygun başlatıyoruz."
     }
   ],
-  "ctaLabel": "Teklif Al"
+  "ctaLabel": "WhatsApp ile İletişim"
 }

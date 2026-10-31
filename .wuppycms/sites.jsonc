@@ -3,7 +3,8 @@
 	"sites": [
 		{
 			"key": "root",
-			"name": "Yeni Site",
+			"name": "diyeta",
+			"url": "https://app.wuppycms.com/preview/fuatcangnc-diyeta-gk4vy/",
 			"media": "public",
 			"publishing": "review",
 			"collections": ["posts", "pages"]
